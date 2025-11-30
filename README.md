@@ -16,7 +16,7 @@
 - danawa.product
     
     
-    | 컬럼 | Field | Type |  |
+    | 컬럼 | Field | Type | 비고 |
     | --- | --- | --- | --- |
     | 제품 id | id | Serial | PK |
     | 카테고리 | category | VARCAHR(50) | NOT NULL |
